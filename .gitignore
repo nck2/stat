@@ -1,2 +1,4 @@
 *.yml
 statvenv/
+.vscode/
+.ipynb_checkpoints
