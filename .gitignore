@@ -2,3 +2,5 @@
 statvenv/
 .vscode/
 .ipynb_checkpoints
+ex_*
+statenv/
