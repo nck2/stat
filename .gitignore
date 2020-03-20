@@ -4,3 +4,4 @@ statvenv/
 .ipynb_checkpoints
 ex_*
 statenv/
+.DS_Store
